@@ -93,7 +93,7 @@ header {
 }
 
 .header_slider_container {
-  background-image: url(/homework9_js/images/slide-image.png);
+  background-image: url(./images/slide-image.png);
   height: 670px;
   display: flex;
   align-items: center;
